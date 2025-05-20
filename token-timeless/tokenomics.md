@@ -43,12 +43,6 @@ The Timełess token drives economic activity across the platform by:
 
 ---
 
-## Visual Summary
-
-![Timełess Tokenomics Chart](../assets/timeless-tokenomics-chart-placeholder.png)
-
----
-
 By implementing a **balanced and transparent tokenomics strategy**, Timełess ensures **ecosystem sustainability**, **user incentives**, and **long-term platform growth**.
 
-<figure><img src="../.gitbook/assets/timeless-token-banner.jpg" alt="Timełess Token Banner"></figure>
+![Timeless](../.gitbook/assets/timeles.png)
