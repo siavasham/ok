@@ -26,6 +26,7 @@
   * [Core Team](team/core.md)
   * [Advisors](team/advisors.md)
 
+
 ## Social Links
 
 * [Website](https://timelessapp.ai/)
