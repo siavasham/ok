@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Abstract](README.md)
+* [Introduction](README.md)
 * [Platform](platform/README.md)
   * [AI Apps](platform/ai-apps.md)
   * [Web3 Gaming & Health](platform/web3-gaming-health.md)
