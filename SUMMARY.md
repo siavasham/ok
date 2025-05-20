@@ -1,28 +1,27 @@
 # Table of contents
 
 - [Abstract](README.md)
-- README.md (Intro / Abstract)
-- platform/README.md (What is Slugon / Timeless)
-  - platform/ai-apps.md
-  - platform/web3-gaming-health.md
-- invest/README.md (Investment System Overview)
-  - invest/plans.md
-  - invest/referrals.md
-  - invest/token-bonus.md
-  - invest/formulas.md
-  - invest/example.md
-  - invest/liquidity-pool.md
-- token-trdx/README.md
-  - token-trdx/utility.md
-  - token-trdx/holding-bonus.md
-- market/README.md
-  - market/analysis.md
-  - market/target-audience.md
-  - market/competitors.md
-- roadmap.md
-- team/README.md
-  - team/core.md
-  - team/advisors.md
+- [Ecosystem](ecosystem/README.md)
+  - [Components](ecosystem/components/README.md)
+    - [AI Systems](ecosystem/components/ai-systems.md)
+    - [Prediction Markets](ecosystem/components/prediction-markets.md)
+    - [Immersive Gaming](ecosystem/components/immersive-gaming.md)
+  - [Multi-Chain Integration](ecosystem/multi-chain-integration.md)
+- [Token(TRDX)](token-trdx/README.md)
+  - [Token Utility](token-trdx/token-utility.md)
+  - [Tokenomics](token-trdx/tokenomics.md)
+- [Token(Timełess)](token-timeless/README.md)
+  - [Token Utility](token-timeless/token-utility.md)
+  - [Tokenomics](token-timeless/tokenomics.md)
+- [Pricing Strategy](pricing-strategy.md)
+- [Market Analysis](market-analysis/README.md)
+  - [Overview](market-analysis/overview.md)
+  - [Target Audience](market-analysis/target-audience.md)
+  - [Competitor Analysis](market-analysis/competitor-analysis.md)
+- [Roadmap](roadmap.md)
+- [Team and Advisors](team-and-advisors/README.md)
+  - [Core Team](team-and-advisors/core-team.md)
+  - [Advisory Board](team-and-advisors/advisory-board.md)
 
 ## Social
 
