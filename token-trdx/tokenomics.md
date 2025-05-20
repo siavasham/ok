@@ -39,4 +39,4 @@ By implementing **a well-balanced distribution strategy** and **structured vesti
 
 _Note:_ TRDX is the primary **utility token**, while Timełess acts as the **economy token** powering broader economic functions within the platform.
 
-![Trdx](../.gitbook/assets/trendix.png)
+<img src="../.gitbook/assets/trendix.png" width="300"/>

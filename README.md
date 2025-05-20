@@ -1,6 +1,6 @@
 # Timeless Platform Documentation
 
-![Timeless](.gitbook/assets/logo.png)
+<img src=".gitbook/assets/logo.png" width="300"/>
 
 Welcome to the official documentation for **Timeless — The AI-Powered Web3 Platform**.  
 Shape the future through AI tools, immersive gaming, and intelligent health solutions.
@@ -59,3 +59,7 @@ This GitBook serves developers, partners, investors, and users who want to explo
 - [X (Twitter)](https://x.com/thetimelessai)
 - [Telegram](https://t.me/timelessaiapp)
 - [Instagram](https://www.instagram.com/timelessapp.ai/)
+
+---
+
+<img src=".gitbook/assets/bg.jpg" width="500"/>
