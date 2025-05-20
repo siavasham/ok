@@ -13,5 +13,3 @@ Create stunning visuals. Submit your photos to train the AI and unlock exclusive
 Experience fast, unbiased, and automated interviews — powered by smart agents.
 
 > All your actions contribute to the AI's growth — and your wallet.
-
-![placeholder](../assets/ai-apps.png)
