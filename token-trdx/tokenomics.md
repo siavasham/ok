@@ -33,16 +33,12 @@ To promote long-term stability and prevent early token dumping, various allocati
 
 ---
 
-#### **Visual Summary**
-
-![Tokenomics Chart](../assets/tokenomics-chart-placeholder.png)
-
----
-
 By implementing **a well-balanced distribution strategy** and **structured vesting schedules**, Timełess ensures **sustainable token circulation**, fostering **platform stability and long-term ecosystem growth**.
 
 ---
 
 _Note:_ TRDX is the primary **utility token**, while Timełess acts as the **economy token** powering broader economic functions within the platform.
+
+![Tokenomics Chart](../.gitbook/assets/trendix.png)
 
 <figure><img src="../.gitbook/assets/trendix web baner3.jpg" alt="TRDX Banner"></figure>
