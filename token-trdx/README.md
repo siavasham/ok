@@ -1,6 +1,3 @@
----
-icon: '3'
----
+# TRDX Token
 
-# Token(TRDX)
-
+The utility token powering rewards, governance, and platform activity.

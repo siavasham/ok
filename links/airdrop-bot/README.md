@@ -1,8 +1,0 @@
----
-icon: minus
----
-
-# Airdrop Bot
-
-
-

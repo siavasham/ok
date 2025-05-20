@@ -1,6 +1,3 @@
----
-icon: '8'
----
+# Team & Advisors
 
-# Team and Advisors
-
+Meet the minds behind Slugon and Timełess.

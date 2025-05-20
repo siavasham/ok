@@ -1,6 +1,3 @@
----
-icon: '4'
----
+# Timełess Economy Token
 
-# Token(Timełess)
-
+Timełess is the backbone of the investment and compute economy powering the AI platform.
