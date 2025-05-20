@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Platform Overview](platform/README.md)
   * [AI Applications](platform/ai-apps.md)
-  * [Gaming](platform/gaming.md)
   * [Health](platform/health.md)
 * [Investment System](invest/README.md)
   * [Plans](invest/plans.md)
