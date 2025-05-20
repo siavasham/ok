@@ -62,4 +62,4 @@ This GitBook serves developers, partners, investors, and users who want to explo
 
 ---
 
-<img src=".gitbook/assets/bg.jpg" width="500"/>
+<img src=".gitbook/assets/bg.jpg" />
