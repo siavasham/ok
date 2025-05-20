@@ -23,7 +23,6 @@
   * [Competitors](market/competitors.md)
 * [Roadmap](roadmap.md)
 * [Team](team/README.md)
-  * [Core Team](team/core.md)
   * [Advisors](team/advisors.md)
 
 

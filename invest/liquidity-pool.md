@@ -1,4 +1,4 @@
-# 💰 Liquidity Pool
+# Liquidity Pool
 
 The Timeless AI ecosystem operates on a robust and fair **$50,000 monthly liquidity pool**, designed to ensure consistent and sustainable rewards for all participants across our AI-powered economy.
 

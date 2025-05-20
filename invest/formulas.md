@@ -1,12 +1,12 @@
 # Earnings Formulas
 
-## 📈 Raw Daily Earnings
+## Raw Daily Earnings
 
 ```text
 Daily_Earning = Base_Return × (1 + Referral_Bonus + TRDX_Bonus)
 ```
 
-## ⚖️ Liquidity Scaling (if enabled)
+## Liquidity Scaling (if enabled)
 
 ```text
 Scaling_Factor = MIN(1, Daily_Pool / Total_User_Earnings)
@@ -15,7 +15,7 @@ Adjusted_Earning = Daily_Earning × Scaling_Factor
 
 > Daily_Pool is calculated from the monthly liquidity cap (e.g. $50,000 / 30).
 
-## 🛡️ Swap Damage (Behavior-Based)
+## Swap Damage (Behavior-Based)
 
 ```text
 Swap_Rate = Total_Swapped / Total_Earned

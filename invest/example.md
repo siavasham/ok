@@ -1,13 +1,13 @@
 # Example Calculation
 
-## 💼 Scenario
+## Scenario
 
 - **Plan**: SYNAPSE-X ($100)
 - **Referrals**: INIT.AI + NEURA.ONE (2 unique plans → +12%)
 - **Holding**: 10,000 $TRDX → +5%
 - **Swap History**: 40% of total earnings swapped
 
-## 🧮 Step-by-step
+## Step-by-step
 
 ### Raw Earning
 

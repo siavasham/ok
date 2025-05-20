@@ -1,14 +1,14 @@
 # AI-Powered Apps
 
-## 🧠 Talk with AI
+## Talk with AI
 
 Engage in conversations, help models learn, and earn for your time.
 
-## 🎨 AI Image Generator
+## AI Image Generator
 
 Create stunning visuals. Submit your photos to train the AI and unlock exclusive rewards.
 
-## 🧪 AI Interviews
+## AI Interviews
 
 Experience fast, unbiased, and automated interviews — powered by smart agents.
 
