@@ -1,3 +1,3 @@
 # Market Overview
 
-Understanding the Web3 and AI market landscape.
+Insights into market positioning.

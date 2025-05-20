@@ -1,3 +1,3 @@
 # Web3 Gaming & Health
 
-Gamified experiences and health-focused tools integrated via blockchain.
+Overview of Web3 gaming and health applications.

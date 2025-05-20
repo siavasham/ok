@@ -1,3 +1,3 @@
-# Advisory Board
+# Advisors
 
-Strategic advisors guiding the platform’s growth.
+Advisory board members.

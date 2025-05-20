@@ -1,3 +1,3 @@
-# Team & Advisors
+# Team
 
-Meet the people behind Timeless.
+Overview of team members.

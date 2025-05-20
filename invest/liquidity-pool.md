@@ -1,3 +1,3 @@
 # Liquidity Pool
 
-Details on staking, APY, and liquidity rewards.
+Structure and role of liquidity in Timeless.

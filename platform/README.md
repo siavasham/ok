@@ -1,3 +1,3 @@
-# What is Timeless?
+# Platform Overview
 
-Timeless is a next-gen AI platform focused on Web3 gaming and health.
+Explore AI apps and Web3-based gaming & health applications.

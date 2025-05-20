@@ -1,3 +1,3 @@
-# Investment Plans
+# Plans
 
-Flexible plans offering daily ROI backed by GPU-powered AI infrastructure.
+Details of investment plans.

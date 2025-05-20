@@ -1,3 +1,3 @@
-# Investment Example
+# Example
 
-Real-world example showing how earnings accumulate.
+Practical examples of investment returns.

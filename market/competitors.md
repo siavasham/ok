@@ -1,3 +1,3 @@
 # Competitor Analysis
 
-Comparison with other platforms in AI and Web3.
+Comparison with other platforms.

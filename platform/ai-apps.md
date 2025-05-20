@@ -1,3 +1,3 @@
 # AI Applications
 
-Explore AI tools that power automation, creativity, and personalization.
+Details on AI-powered tools and services.

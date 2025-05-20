@@ -1,3 +1,3 @@
-# Referral System
+# Referrals
 
-Earn rewards by referring new users to Timeless.
+How referral bonuses work.

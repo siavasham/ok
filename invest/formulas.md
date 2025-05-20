@@ -1,3 +1,3 @@
-# Earnings Formulas
+# Formulas
 
-Calculation logic for ROI, bonuses, and rewards.
+Calculations for rewards and returns.

@@ -1,3 +1,3 @@
-# Investment System Overview
+# Investment System
 
-Overview of investment strategies and earnings within Timeless.
+Overview of Timeless's investment features.

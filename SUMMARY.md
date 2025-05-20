@@ -4,6 +4,8 @@
 * [Platform Overview](platform/README.md)
   * [AI Applications](platform/ai-apps.md)
   * [Web3 Gaming & Health](platform/web3-gaming-health.md)
+    * [Gaming](platform/gaming.md)
+    * [Health](platform/health.md)
 * [Investment System](invest/README.md)
   * [Plans](invest/plans.md)
   * [Referrals](invest/referrals.md)
