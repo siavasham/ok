@@ -10,7 +10,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ---
 
-## 🟢 INIT.AI
+## INIT.AI
 
 ![INIT.AI](../.gitbook/assets/init.ai.png)
 
@@ -21,7 +21,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ---
 
-## 🔵 NEURA.ONE
+## NEURA.ONE
 
 ![NEURA.ONE](../.gitbook/assets/neura.one.png)
 
@@ -32,7 +32,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ---
 
-## 🟣 SYNAPSE-X
+## SYNAPSE-X
 
 ![SYNAPSE-X](../.gitbook/assets/synapse-x.png)
 
@@ -43,7 +43,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ---
 
-## 🔶 QUANTUM.HZ
+## QUANTUM.HZ
 
 ![QUANTUM.HZ](../.gitbook/assets/quantum.hz.png)
 
@@ -54,7 +54,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ---
 
-## 🔴 OVERCLOCK∞
+## OVERCLOCK∞
 
 ![OVERCLOCK∞](../.gitbook/assets/overclock.png)
 
@@ -67,10 +67,10 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## Why Rent a GPU Server?
 
-- 🚀 **Earn Daily TRDX Rewards**
-- 🧠 **Support AI Model Training & Deployment**
-- 🔄 **Plug into the Timeless AI economy**
-- 💸 **Flexible, scalable plans for every user level**
+- **Earn Daily TRDX Rewards**
+- **Support AI Model Training & Deployment**
+- **Plug into the Timeless AI economy**
+- **Flexible, scalable plans for every user level**
 
 ---
 
