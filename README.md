@@ -5,13 +5,13 @@ Shape the future through AI tools, immersive gaming, and intelligent health solu
 
 ---
 
-## 🌐 What is Timeless?
+## What is Timeless?
 
 **Timeless** is a next-generation AI ecosystem combining intelligent automation, immersive Web3 gaming, and personalized health systems. Whether you're creating with AI, competing in games, or optimizing your wellness — Timeless empowers you to participate, earn, and grow.
 
 ---
 
-## 🚀 Our Vision
+## Our Vision
 
 > **“Train the Future. Live Smart. Earn Real.”**
 
@@ -19,7 +19,7 @@ We’re building a world where your daily engagement with AI and digital systems
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 - **AI-Powered Tools**  
   Engage with advanced text, image, and health-focused AI applications that learn from user feedback.
@@ -38,7 +38,7 @@ We’re building a world where your daily engagement with AI and digital systems
 
 ---
 
-## 📘 What This Documentation Covers
+## What This Documentation Covers
 
 - Overview of the **Timeless platform and philosophy**
 - Detailed guides to **AI tools**, **Web3 games**, and **health systems**
@@ -51,7 +51,7 @@ This GitBook serves developers, partners, investors, and users who want to explo
 
 ---
 
-## 🌍 Official Links
+## Official Links
 
 - [Website](https://timelessapp.ai/)
 - [X (Twitter)](https://x.com/thetimelessai)
