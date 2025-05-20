@@ -12,8 +12,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## INIT.AI
 
-![INIT.AI](../.gitbook/assets/init.ai.png)
-
+<img src="../.gitbook/assets/init.ai.png" width="300"/>
 - **Server Instance:** RTX 4000 ADA
 - **Price:** $20
 - **Ideal For:** Beginners or light compute users
@@ -22,7 +21,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## NEURA.ONE
 
-![NEURA.ONE](../.gitbook/assets/neura.one.png)
+<img src="../.gitbook/assets/neura.one.png"  width="300"/>
 
 - **Server Instance:** RTX 6000 ADA
 - **Price:** $50
@@ -32,7 +31,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## SYNAPSE-X
 
-![SYNAPSE-X](../.gitbook/assets/synapse-x.png)
+<img src="../.gitbook/assets/synapse-x.png" width="300"/>
 
 - **Server Instance:** L40S
 - **Price:** $100
@@ -42,7 +41,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## QUANTUM.HZ
 
-![QUANTUM.HZ](../.gitbook/assets/quantum.hz.png)
+<img src="../.gitbook/assets/quantum.hz.png" width="300"/>
 
 - **Server Instance:** H100
 - **Price:** $350
@@ -52,7 +51,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 
 ## OVERCLOCK∞
 
-![OVERCLOCK∞](../.gitbook/assets/overclock.png)
+<img src="../.gitbook/assets/overclock.png" width="300"/>
 
 - **Server Instance:** H100 x 8
 - **Price:** $1,000
