@@ -13,6 +13,7 @@ Join the Timeless AI network by renting high-performance GPU servers. Each plan 
 ## INIT.AI
 
 <img src="../.gitbook/assets/init.ai.png" width="300"/>
+
 - **Server Instance:** RTX 4000 ADA
 - **Price:** $20
 - **Ideal For:** Beginners or light compute users
