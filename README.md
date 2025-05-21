@@ -1,6 +1,6 @@
 # Timeless Platform Documentation
 
-![Logo](.gitbook/assets/bg.jpg)
+![](.gitbook/assets/bg.jpg)
 
 Welcome to the official documentation for **Timeless — The AI-Powered Web3 Platform**.  
 Shape the future through AI tools, immersive gaming, and intelligent health solutions.
